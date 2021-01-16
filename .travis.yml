@@ -16,4 +16,4 @@ deploy:
   on:
       branches:
         only:
-        - main
+        - master
